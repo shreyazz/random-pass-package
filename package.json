@@ -1,5 +1,5 @@
 {
-  "name": "random_pass",
+  "name": "@shreyazz/random_pass",
   "version": "1.0.0",
   "description": "A package which let's you generate random passwords with options",
   "main": "index.js",
@@ -12,6 +12,11 @@
   },
   "author": "Shreyas Pahune",
   "license": "MIT",
+  "keywords": [
+    "passwords",
+    "random passwords",
+    "random"
+  ],
   "bugs": {
     "url": "https://github.com/shreyazz/random-pass-package/issues"
   },
