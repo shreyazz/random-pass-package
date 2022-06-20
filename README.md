@@ -1,6 +1,6 @@
 # Random-Pass-Package
 
-This is package which lets you generate random passwords with options like, length and should it contain: numbers / letters / speacial chars.
+This is package which lets you generate random passwords with options like, length and should it contain: numbers / letters / special chars.
 
 <!-- [![download badge](https://badgen.net/npm/dt/@shreyazz/random_pass/?color=blue&icon=npm&labelColor=black&scale=1.1)](https://www.npmjs.com/package/@shreyazz/random_pass) -->
 
